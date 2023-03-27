@@ -170,7 +170,7 @@ cartI.addEventListener("click", () => {
       itemRow.id = `${item.id}`;
       itemRow.innerHTML = `
       <div class="img-holder">
-          <img src="${item.img}">
+          <img src=".${item.img}">
         </div>
         <p class="title">${item.title}</p>
         <div class="price-holder">
