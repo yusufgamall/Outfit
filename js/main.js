@@ -101,7 +101,7 @@ for (let i = 0; i < data.length; i++) {
   item.classList.add("item");
   item.innerHTML = `
   <div class="img-holder">
-    <img src="../media/Images/items/${data[i].img}" id="itemImg">
+    <img src="./media/Images/items/${data[i].img}" id="itemImg">
   </div>
   <p id="itemTitle" title="${data[i].title}">${data[i].title}</p>
   <div class="price-holder">
