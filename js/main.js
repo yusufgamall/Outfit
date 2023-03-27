@@ -125,7 +125,7 @@ items.forEach((item) => {
   item.addEventListener("click", (e) => {
     const cartItem = {
       id: Date.now(),
-      img: e.target.children[0].children[0].getAttribute("src").slice(1),
+      img: e.target.children[0].children[0].getAttribute("src"),
       title: e.target.children[1].innerHTML,
       price: +e.target.children[2].children[0].innerHTML,
     };
