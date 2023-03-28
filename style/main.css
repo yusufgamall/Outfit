@@ -335,6 +335,7 @@ footer form #inp:focus::placeholder {
 }
 
 footer form #inpCTA {
+  text-transform: uppercase;
   cursor: pointer;
   background-color: white;
   outline: none;
