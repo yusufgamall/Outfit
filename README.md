@@ -37,7 +37,7 @@
 
 <h3 align="center">Things to add in the future</h3>
 <p align="center" >
-  • Fix particles
+  • Fix particles > Done ✅ 6/18/2023
 </p>
 
 ---
@@ -62,3 +62,8 @@
 
 <h3 align="center">Screens</h3>
 
+![Home_PC](https://github.com/cisjoe/Outfit/assets/105171436/12767e26-7548-4108-a77c-f963dbb4ab56)
+![Section_PC](https://github.com/cisjoe/Outfit/assets/105171436/1c6c5388-0f89-45ed-8eb6-8c659b76e07b)
+![Cart_PC](https://github.com/cisjoe/Outfit/assets/105171436/08d275f0-245b-48a7-ac9b-4770dd25b900)
+![Home_PHONE](https://github.com/cisjoe/Outfit/assets/105171436/a85cd21f-ea99-4e4b-b03e-1a1c2d268296)
+![Cart_PHONE](https://github.com/cisjoe/Outfit/assets/105171436/5f30884a-1230-4d8d-9e6c-72dd6973a5b9)
