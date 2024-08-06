@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center" >
-  <a href="https://cisjoe.github.io/Outfit">cisjoe.github.io/Outfit</a>
+  <a href="https://yusufgamall.github.io/Outfit">yusufgamall.github.io/Outfit</a>
 </p>
 
 <p align="center" >
